@@ -15,28 +15,28 @@ Hoàn thành một sản phẩm phần mềm có thể chạy và minh họa đ�
 ## Các chức năng chính
   👤 Quản lý người dùng
 
-Đăng nhập / đăng xuất hệ thống
+- Đăng nhập / đăng xuất hệ thống
 
-Phân quyền người dùng (Quản trị viên / Khách hàng)
+- Phân quyền người dùng (Quản trị viên / Khách hàng)
 
 🏨 Quản lý phòng
 
-Thêm, sửa, xóa thông tin phòng
+- Thêm, sửa, xóa thông tin phòng
 
-Hiển thị danh sách phòng và trạng thái phòng (trống / đã đặt)
+- Hiển thị danh sách phòng và trạng thái phòng (trống / đã đặt)
 
 📄 Quản lý đặt phòng
 
-Khách hàng gửi yêu cầu đặt phòng
+- Khách hàng gửi yêu cầu đặt phòng
 
-Quản trị viên duyệt hoặc từ chối đơn đặt phòng
+- Quản trị viên duyệt hoặc từ chối đơn đặt phòng
 
-Cập nhật trạng thái đơn đặt phòng
+- Cập nhật trạng thái đơn đặt phòng
 
 📊 Quản lý thông tin
 
-Xem danh sách khách hàng
+- Xem danh sách khách hàng
 
-Xem danh sách đơn đặt phòng
+- Xem danh sách đơn đặt phòng
 
-Theo dõi tình trạng hoạt động của khách sạn
+- Theo dõi tình trạng hoạt động của khách sạn
